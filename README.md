@@ -1,18 +1,21 @@
-# Small Instagram Clone
+# Basic Spotify Functionalities Clone
 
-That's the Frond-End Instagram Clone
+That is a basic application based on Spotify.
 
 ## Screenshots :camera:
 
-<a href="https://ibb.co/WvpHTm7"><img src="https://i.ibb.co/qYFDZTh/Anota-o-2020-08-31-212626.png" alt="Anota-o-2020-08-31-212626" border="0"></a>
+![image](https://user-images.githubusercontent.com/66327173/91672931-c0ca4000-eb07-11ea-9ba4-b1a4f99f9e3c.png)
 
 ## About
 
-The app was developed to practice my react skills. In it i apply the stateful components concept.
+The app was developed to practice react skills. In it i apply the stateful components concept.
 
 
 ### Functionalities
-You can create a post, like a post and save a post.
+There is an URL input to create an image example. You can ignore it.
+
+In my spotify you can link some free songs to listen, create your playlist, add tracks to playlist and delete tracks.
+** I did not use iframe on this project, but i could...
 
 ### Installation
 * 1.npm install
